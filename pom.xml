@@ -18,7 +18,7 @@
         <azure.functions.java.library.version>1.2.0</azure.functions.java.library.version>
 		<azure.storage.java.library.version>7.0.0</azure.storage.java.library.version>
         <powermock.version>1.7.1</powermock.version>
-        <functionAppName>lecture-video-download</functionAppName>
+        <functionAppName>lecture-video-download-app</functionAppName>
         <functionAppRegion>northcentralus</functionAppRegion>
         <stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
         <functionResourceGroup>nc-development-rg</functionResourceGroup>
