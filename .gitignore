@@ -1,0 +1,25 @@
+.idea
+.gradle
+*.iml
+*.ipr
+*.iws
+*.orig
+cobertura*.*
+/build
+/out
+/instrumented
+/TestResults
+/resources/ehcache.xml
+/resources/log4j.xml
+*/target
+/target/
+*.log
+.DS_Store
+hs_err_pid*
+.settings
+.project
+.classpath
+# Azure Functions
+local.settings.json
+bin/
+obj/
